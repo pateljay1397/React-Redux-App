@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import CakeContainer from './components/Cakecontainer';
+import CakeContainer from './components/CakeContainer';
 
 function App() {
   return (
